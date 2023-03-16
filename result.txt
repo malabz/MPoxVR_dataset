@@ -1,1 +1,1 @@
-This file has 5197 sequences, (complete 1460, partial 3737).
+This file has 5591 sequences, (complete 1519, partial 4072).

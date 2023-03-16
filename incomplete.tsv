@@ -1,3 +1,4 @@
+Accession	Virus strain name	Location	Host	Virus type	Nuc. completeness
 AB371718.1 	Monkeypox virus B10R gene for 6kDa intracellular viral protein, complete cds, clone: Monkeypox virus Zr-599	Democratic Republic of the Congo		Monkeypox virus	partial
 AB371719.1 	Monkeypox virus B14R gene for bifunctional IL-1-beta-inhibitor/prevents febrile response in VAC-mouse intranasal model, complete cds, clone: Monkeypox virus Zr-599	Democratic Republic of the Congo		Monkeypox virus	partial
 AB371720.1 	Monkeypox virus D10L gene for hypothetical protein, complete cds, clone: Monkeypox virus Zr-599	Democratic Republic of the Congo		Monkeypox virus	partial
@@ -3735,3 +3736,338 @@ OQ469307.1 	Monkeypox virus isolate NY-NYCPHL-001167, partial genome	USA: NY, Ne
 OQ469308.1 	Monkeypox virus isolate NY-NYCPHL-001170, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
 OQ469309.1 	Monkeypox virus isolate NY-NYCPHL-001174, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
 OQ469310.1 	Monkeypox virus isolate NY-NYCPHL-001175, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ503758.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-081614/2022, partial genome	USA: WA	Homo sapiens	Monkeypox virus	partial
+OQ503767.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-093664/2022, partial genome	USA: WA	Homo sapiens	Monkeypox virus	partial
+OQ503779.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00446/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503780.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00440/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503781.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00447/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503782.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00448/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503783.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00449/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503784.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00450/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503785.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00451/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503786.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00452/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503787.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00453/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503788.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00454/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503789.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00455/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503790.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00456/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503791.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00457/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503792.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00458/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503793.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00441/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503794.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00442/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503795.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00443/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503796.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00444/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503797.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00414/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503798.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00410/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503799.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00411/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503800.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00412/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503801.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00427/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503802.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00428/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503803.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00429/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503804.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00430/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503805.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00431/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503806.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00432/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503807.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00433/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503808.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00434/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503809.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00435/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503810.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00436/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503811.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00437/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503812.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00419/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503813.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00420/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503814.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00421/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503815.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00422/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503816.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00423/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503817.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00424/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503818.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00425/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503819.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00426/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503820.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00415/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503821.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00416/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503822.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00417/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503823.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00418/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503824.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00413/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503825.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00402/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503826.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00403/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503827.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00404/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503828.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00405/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503829.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00406/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503830.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00407/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503831.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00408/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503832.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00409/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503833.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00445/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503834.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00438/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503835.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00439/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503836.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00459/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503837.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00460/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503838.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00461/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503839.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00463/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503840.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00464/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503841.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00465/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503842.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00466/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503843.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00467/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503844.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00468/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ503845.1 	Monkeypox virus isolate MPXV/Human/USA/CA-LACPHL-MA00462/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ504375.1 	Monkeypox virus isolate NY-NYCPHL-000001, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504376.1 	Monkeypox virus isolate NY-NYCPHL-000007, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504377.1 	Monkeypox virus isolate NY-NYCPHL-000016, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504378.1 	Monkeypox virus isolate NY-NYCPHL-000018, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504379.1 	Monkeypox virus isolate NY-NYCPHL-000019, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504380.1 	Monkeypox virus isolate NY-NYCPHL-000031, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504381.1 	Monkeypox virus isolate NY-NYCPHL-000022, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504382.1 	Monkeypox virus isolate NY-NYCPHL-000029, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504383.1 	Monkeypox virus isolate NY-NYCPHL-000043, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504384.1 	Monkeypox virus isolate NY-NYCPHL-000045, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504385.1 	Monkeypox virus isolate NY-NYCPHL-000047, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504386.1 	Monkeypox virus isolate NY-NYCPHL-000052, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504387.1 	Monkeypox virus isolate NY-NYCPHL-000054, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504388.1 	Monkeypox virus isolate NY-NYCPHL-000061, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504389.1 	Monkeypox virus isolate NY-NYCPHL-000068, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504390.1 	Monkeypox virus isolate NY-NYCPHL-000073, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504391.1 	Monkeypox virus isolate NY-NYCPHL-000083, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504392.1 	Monkeypox virus isolate NY-NYCPHL-000085, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504393.1 	Monkeypox virus isolate NY-NYCPHL-000094, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504394.1 	Monkeypox virus isolate NY-NYCPHL-000096, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504395.1 	Monkeypox virus isolate NY-NYCPHL-000106, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504396.1 	Monkeypox virus isolate NY-NYCPHL-000108, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504397.1 	Monkeypox virus isolate NY-NYCPHL-000116, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504398.1 	Monkeypox virus isolate NY-NYCPHL-000118, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504399.1 	Monkeypox virus isolate NY-NYCPHL-000127, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504400.1 	Monkeypox virus isolate NY-NYCPHL-000128, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504401.1 	Monkeypox virus isolate NY-NYCPHL-000134, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504402.1 	Monkeypox virus isolate NY-NYCPHL-000136, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504403.1 	Monkeypox virus isolate NY-NYCPHL-000140, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504404.1 	Monkeypox virus isolate NY-NYCPHL-000145, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504405.1 	Monkeypox virus isolate NY-NYCPHL-000155, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504406.1 	Monkeypox virus isolate NY-NYCPHL-000160, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504407.1 	Monkeypox virus isolate NY-NYCPHL-000162, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504408.1 	Monkeypox virus isolate NY-NYCPHL-000164, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504409.1 	Monkeypox virus isolate NY-NYCPHL-000169, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504410.1 	Monkeypox virus isolate NY-NYCPHL-000170, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504411.1 	Monkeypox virus isolate NY-NYCPHL-000172, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504412.1 	Monkeypox virus isolate NY-NYCPHL-000178, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504413.1 	Monkeypox virus isolate NY-NYCPHL-000182, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504414.1 	Monkeypox virus isolate NY-NYCPHL-000339, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504415.1 	Monkeypox virus isolate NY-NYCPHL-000343, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504416.1 	Monkeypox virus isolate NY-NYCPHL-000345, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504417.1 	Monkeypox virus isolate NY-NYCPHL-000350, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504418.1 	Monkeypox virus isolate NY-NYCPHL-000352, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504419.1 	Monkeypox virus isolate NY-NYCPHL-000359, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504420.1 	Monkeypox virus isolate NY-NYCPHL-000363, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504421.1 	Monkeypox virus isolate NY-NYCPHL-000365, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504422.1 	Monkeypox virus isolate NY-NYCPHL-000373, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504423.1 	Monkeypox virus isolate NY-NYCPHL-000374, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504424.1 	Monkeypox virus isolate NY-NYCPHL-000385, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504425.1 	Monkeypox virus isolate NY-NYCPHL-000387, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504426.1 	Monkeypox virus isolate NY-NYCPHL-000393, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504427.1 	Monkeypox virus isolate NY-NYCPHL-000396, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504428.1 	Monkeypox virus isolate NY-NYCPHL-000400, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504429.1 	Monkeypox virus isolate NY-NYCPHL-000402, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504430.1 	Monkeypox virus isolate NY-NYCPHL-000407, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504431.1 	Monkeypox virus isolate NY-NYCPHL-000409, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504432.1 	Monkeypox virus isolate NY-NYCPHL-000410, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504433.1 	Monkeypox virus isolate NY-NYCPHL-000417, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504434.1 	Monkeypox virus isolate NY-NYCPHL-000419, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504435.1 	Monkeypox virus isolate NY-NYCPHL-000420, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504436.1 	Monkeypox virus isolate NY-NYCPHL-000425, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504437.1 	Monkeypox virus isolate NY-NYCPHL-000430, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504438.1 	Monkeypox virus isolate NY-NYCPHL-000436, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504439.1 	Monkeypox virus isolate NY-NYCPHL-000444, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504440.1 	Monkeypox virus isolate NY-NYCPHL-000446, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504441.1 	Monkeypox virus isolate NY-NYCPHL-000450, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504442.1 	Monkeypox virus isolate NY-NYCPHL-000456, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504443.1 	Monkeypox virus isolate NY-NYCPHL-000460, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504444.1 	Monkeypox virus isolate NY-NYCPHL-000466, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504445.1 	Monkeypox virus isolate NY-NYCPHL-000469, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504446.1 	Monkeypox virus isolate NY-NYCPHL-000476, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504447.1 	Monkeypox virus isolate NY-NYCPHL-000484, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504448.1 	Monkeypox virus isolate NY-NYCPHL-000497, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504449.1 	Monkeypox virus isolate NY-NYCPHL-000500, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504450.1 	Monkeypox virus isolate NY-NYCPHL-000507, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504451.1 	Monkeypox virus isolate NY-NYCPHL-000509, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504452.1 	Monkeypox virus isolate NY-NYCPHL-000510, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504453.1 	Monkeypox virus isolate NY-NYCPHL-000512, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504454.1 	Monkeypox virus isolate NY-NYCPHL-000514, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504455.1 	Monkeypox virus isolate NY-NYCPHL-000517, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504456.1 	Monkeypox virus isolate NY-NYCPHL-000519, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504457.1 	Monkeypox virus isolate NY-NYCPHL-000520, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504458.1 	Monkeypox virus isolate NY-NYCPHL-000532, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504459.1 	Monkeypox virus isolate NY-NYCPHL-000537, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504460.1 	Monkeypox virus isolate NY-NYCPHL-000539, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504461.1 	Monkeypox virus isolate NY-NYCPHL-000542, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504462.1 	Monkeypox virus isolate NY-NYCPHL-000553, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504463.1 	Monkeypox virus isolate NY-NYCPHL-000561, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504464.1 	Monkeypox virus isolate NY-NYCPHL-000563, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504465.1 	Monkeypox virus isolate NY-NYCPHL-000564, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504466.1 	Monkeypox virus isolate NY-NYCPHL-000566, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504467.1 	Monkeypox virus isolate NY-NYCPHL-000573, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504468.1 	Monkeypox virus isolate NY-NYCPHL-000576, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504469.1 	Monkeypox virus isolate NY-NYCPHL-000581, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504470.1 	Monkeypox virus isolate NY-NYCPHL-000583, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504471.1 	Monkeypox virus isolate NY-NYCPHL-000584, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504472.1 	Monkeypox virus isolate NY-NYCPHL-000588, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504473.1 	Monkeypox virus isolate NY-NYCPHL-000592, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ504474.1 	Monkeypox virus isolate NY-NYCPHL-000615, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ511276.1 	Monkeypox virus isolate MPXV22/human/USA-IA-2, partial genome	USA: Iowa	Homo sapiens	Monkeypox virus	partial
+OQ511277.1 	Monkeypox virus isolate MPXV22/human/USA-IA-3, partial genome	USA: Iowa	Homo sapiens	Monkeypox virus	partial
+OQ547747.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI720, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547748.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI721, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547749.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI722, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547750.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI723, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547751.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI724, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547752.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI725, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547753.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI726, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547754.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI727, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547755.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI728, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547756.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI729, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547757.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI730, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547758.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI731, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547759.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI732, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547760.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI733, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547761.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI734, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547762.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI735, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547763.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI736, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547764.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI737, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547765.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI738, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547766.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI739, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547767.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI740, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547768.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI741, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547769.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI742, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547770.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI743, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547771.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI744, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547772.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI745, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547773.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI746, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547774.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI747, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547775.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI748, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547776.1 	Monkeypox virus isolate MPXV/Germany/2022/ON/RKI749, partial genome	Germany	Homo sapiens	Monkeypox virus	partial
+OQ547873.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000155/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547874.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000156/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547875.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000159/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547876.1 	Monkeypox virus strain B.1.2 isolate hMpxV/USA/CACDPH1MPX1000164/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547877.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000165/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547878.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000170/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547879.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000171/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547880.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000172/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547881.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000173/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547882.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000174/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547883.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000175/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547884.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000176/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547885.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000178/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547886.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000158/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547887.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000160/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547888.1 	Monkeypox virus strain A isolate hMpxV/USA/CACDPH1MPX1000161/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547889.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000162/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547890.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000163/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547891.1 	Monkeypox virus strain B.1.1 isolate hMpxV/USA/CACDPH1MPX1000166/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547892.1 	Monkeypox virus strain B.1.17 isolate hMpxV/USA/CACDPH1MPX1000167/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547893.1 	Monkeypox virus strain B.1.17 isolate hMpxV/USA/CACDPH1MPX1000168/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547894.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000169/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547895.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000179/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547896.1 	Monkeypox virus strain B.1.7 isolate hMpxV/USA/CACDPH1MPX1000180/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547897.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000181/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547898.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000182/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547899.1 	Monkeypox virus strain B.1.17 isolate hMpxV/USA/CACDPH1MPX1000184/2023, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ547900.1 	Monkeypox virus strain B.1 isolate hMpxV/USA/CACDPH1MPX1000185/2022, partial genome	USA	Homo sapiens	Monkeypox virus	partial
+OQ565448.1 	Monkeypox virus isolate NY-NYCPHL-000809, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565449.1 	Monkeypox virus isolate NY-NYCPHL-000810, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565450.1 	Monkeypox virus isolate NY-NYCPHL-000811, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565451.1 	Monkeypox virus isolate NY-NYCPHL-000812, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565452.1 	Monkeypox virus isolate NY-NYCPHL-000813, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565453.1 	Monkeypox virus isolate NY-NYCPHL-000815, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565454.1 	Monkeypox virus isolate NY-NYCPHL-000817, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565455.1 	Monkeypox virus isolate NY-NYCPHL-000818, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565456.1 	Monkeypox virus isolate NY-NYCPHL-000819, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565457.1 	Monkeypox virus isolate NY-NYCPHL-000820, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565458.1 	Monkeypox virus isolate NY-NYCPHL-000822, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565459.1 	Monkeypox virus isolate NY-NYCPHL-000823, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565460.1 	Monkeypox virus isolate NY-NYCPHL-000825, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565461.1 	Monkeypox virus isolate NY-NYCPHL-000827, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565462.1 	Monkeypox virus isolate NY-NYCPHL-000828, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565463.1 	Monkeypox virus isolate NY-NYCPHL-000829, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565464.1 	Monkeypox virus isolate NY-NYCPHL-000830, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565465.1 	Monkeypox virus isolate NY-NYCPHL-000831, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565466.1 	Monkeypox virus isolate NY-NYCPHL-000834, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565467.1 	Monkeypox virus isolate NY-NYCPHL-000836, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565468.1 	Monkeypox virus isolate NY-NYCPHL-000837, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565469.1 	Monkeypox virus isolate NY-NYCPHL-000838, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565470.1 	Monkeypox virus isolate NY-NYCPHL-000839, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565471.1 	Monkeypox virus isolate NY-NYCPHL-000840, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565472.1 	Monkeypox virus isolate NY-NYCPHL-000841, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565473.1 	Monkeypox virus isolate NY-NYCPHL-000842, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565474.1 	Monkeypox virus isolate NY-NYCPHL-000845, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565475.1 	Monkeypox virus isolate NY-NYCPHL-000846, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565476.1 	Monkeypox virus isolate NY-NYCPHL-000848, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565477.1 	Monkeypox virus isolate NY-NYCPHL-000850, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565478.1 	Monkeypox virus isolate NY-NYCPHL-000853, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565479.1 	Monkeypox virus isolate NY-NYCPHL-000855, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565480.1 	Monkeypox virus isolate NY-NYCPHL-000856, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565481.1 	Monkeypox virus isolate NY-NYCPHL-000857, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565482.1 	Monkeypox virus isolate NY-NYCPHL-000859, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565483.1 	Monkeypox virus isolate NY-NYCPHL-000860, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565484.1 	Monkeypox virus isolate NY-NYCPHL-000861, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565485.1 	Monkeypox virus isolate NY-NYCPHL-000863, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565486.1 	Monkeypox virus isolate NY-NYCPHL-000871, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565487.1 	Monkeypox virus isolate NY-NYCPHL-000872, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565488.1 	Monkeypox virus isolate NY-NYCPHL-000873, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565489.1 	Monkeypox virus isolate NY-NYCPHL-000874, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565490.1 	Monkeypox virus isolate NY-NYCPHL-000875, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565491.1 	Monkeypox virus isolate NY-NYCPHL-000878, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565492.1 	Monkeypox virus isolate NY-NYCPHL-000884, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565493.1 	Monkeypox virus isolate NY-NYCPHL-000886, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565494.1 	Monkeypox virus isolate NY-NYCPHL-000888, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565495.1 	Monkeypox virus isolate NY-NYCPHL-000889, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565496.1 	Monkeypox virus isolate NY-NYCPHL-000890, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565497.1 	Monkeypox virus isolate NY-NYCPHL-000893, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565498.1 	Monkeypox virus isolate NY-NYCPHL-000895, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565499.1 	Monkeypox virus isolate NY-NYCPHL-000899, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565500.1 	Monkeypox virus isolate NY-NYCPHL-000900, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565501.1 	Monkeypox virus isolate NY-NYCPHL-000907, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565502.1 	Monkeypox virus isolate NY-NYCPHL-000909, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565503.1 	Monkeypox virus isolate NY-NYCPHL-000910, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565504.1 	Monkeypox virus isolate NY-NYCPHL-000911, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565505.1 	Monkeypox virus isolate NY-NYCPHL-000914, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565506.1 	Monkeypox virus isolate NY-NYCPHL-000915, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565507.1 	Monkeypox virus isolate NY-NYCPHL-000916, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565508.1 	Monkeypox virus isolate NY-NYCPHL-000917, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565509.1 	Monkeypox virus isolate NY-NYCPHL-000919, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565510.1 	Monkeypox virus isolate NY-NYCPHL-000920, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565511.1 	Monkeypox virus isolate NY-NYCPHL-000921, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565512.1 	Monkeypox virus isolate NY-NYCPHL-000922, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565513.1 	Monkeypox virus isolate NY-NYCPHL-000924, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565514.1 	Monkeypox virus isolate NY-NYCPHL-000926, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565515.1 	Monkeypox virus isolate NY-NYCPHL-000930, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565516.1 	Monkeypox virus isolate NY-NYCPHL-000933, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565517.1 	Monkeypox virus isolate NY-NYCPHL-000935, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565518.1 	Monkeypox virus isolate NY-NYCPHL-000936, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565519.1 	Monkeypox virus isolate NY-NYCPHL-000937, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565520.1 	Monkeypox virus isolate NY-NYCPHL-000939, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565521.1 	Monkeypox virus isolate NY-NYCPHL-000942, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565522.1 	Monkeypox virus isolate NY-NYCPHL-000943, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565523.1 	Monkeypox virus isolate NY-NYCPHL-000945, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565524.1 	Monkeypox virus isolate NY-NYCPHL-000946, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565525.1 	Monkeypox virus isolate NY-NYCPHL-000948, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565526.1 	Monkeypox virus isolate NY-NYCPHL-000950, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565527.1 	Monkeypox virus isolate NY-NYCPHL-000951, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565528.1 	Monkeypox virus isolate NY-NYCPHL-000955, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565529.1 	Monkeypox virus isolate NY-NYCPHL-000956, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565530.1 	Monkeypox virus isolate NY-NYCPHL-000958, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565531.1 	Monkeypox virus isolate NY-NYCPHL-000963, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565532.1 	Monkeypox virus isolate NY-NYCPHL-000965, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565533.1 	Monkeypox virus isolate NY-NYCPHL-000966, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565534.1 	Monkeypox virus isolate NY-NYCPHL-000967, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565535.1 	Monkeypox virus isolate NY-NYCPHL-000968, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565536.1 	Monkeypox virus isolate NY-NYCPHL-000970, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565537.1 	Monkeypox virus isolate NY-NYCPHL-000973, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565538.1 	Monkeypox virus isolate NY-NYCPHL-000978, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565539.1 	Monkeypox virus isolate NY-NYCPHL-000981, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565540.1 	Monkeypox virus isolate NY-NYCPHL-000982, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565541.1 	Monkeypox virus isolate NY-NYCPHL-000983, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565542.1 	Monkeypox virus isolate NY-NYCPHL-000984, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565543.1 	Monkeypox virus isolate NY-NYCPHL-000986, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565544.1 	Monkeypox virus isolate NY-NYCPHL-000988, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565545.1 	Monkeypox virus isolate NY-NYCPHL-000991, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565546.1 	Monkeypox virus isolate NY-NYCPHL-000996, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ565547.1 	Monkeypox virus isolate NY-NYCPHL-000998, partial genome	USA: NY, New York City	Homo sapiens	Monkeypox virus	partial
+OQ581847.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0005b/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial
+OQ581848.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0006b/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial
+OQ581849.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0007b/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial
+OQ581850.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0005a/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial
+OQ581851.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0006a/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial
+OQ581852.1 	Monkeypox virus isolate MPXV/Spain/HUNSC_ITER_0007a/2022, partial genome	Spain	Homo sapiens	Monkeypox virus	partial

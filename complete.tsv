@@ -1,3 +1,4 @@
+Accession	Virus strain name	Location	Host	Virus type	Nuc. completeness
 AF380138.1 	Monkeypox virus strain Zaire-96-I-16, complete genome			Monkeypox virus	complete
 AY603973.1 	Monkeypox virus strain MPXV-WRAIR7-61, complete genome			Monkeypox virus	complete
 AY741551.1 	Monkeypox virus isolate Sierra Leone, complete genome			Monkeypox virus	complete
@@ -1458,3 +1459,62 @@ OQ451901.1 	Monkeypox virus isolate MPXV/Germany/2022/RKI716, complete genome	Ge
 OQ451902.1 	Monkeypox virus isolate MPXV/Germany/2022/RKI717, complete genome	Germany	Homo sapiens	Monkeypox virus	complete
 OQ451903.1 	Monkeypox virus isolate MPXV/Germany/2023/RKI718, complete genome	Germany	Homo sapiens	Monkeypox virus	complete
 OQ451904.1 	Monkeypox virus isolate MPXV/Germany/2023/RKI719, complete genome	Germany	Homo sapiens	Monkeypox virus	complete
+OQ503743.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-102573/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503744.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-104151/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503745.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-104493/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503746.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-108047/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503747.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-107934/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503748.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-108160/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503749.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-113297/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503750.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-111475/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503751.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-117178/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503752.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-118017/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503753.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-110466/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503754.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-119069/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503755.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-113327/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503756.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-126801/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503757.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-086924/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503759.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-086090/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503760.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-081934/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503761.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-086672/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503762.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-094968/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503763.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-090794/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503764.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-098023/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503765.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-091026/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503766.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-090341/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503768.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-091191/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503769.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-098858/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503770.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-096758/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503771.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-092974/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503772.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-091051/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503773.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-094428/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503774.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-090521/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503775.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-092397/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503776.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-107595/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503777.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-103817/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ503778.1 	Monkeypox virus isolate MpxV/human/USA/WA-UW-100584/2022, complete genome	USA: WA	Homo sapiens	Monkeypox virus	complete
+OQ511284.1 	Monkeypox virus isolate MPXV_USA_2022_OK0004, complete genome	USA:OK	Homo sapiens	Monkeypox virus	complete
+OQ511285.1 	Monkeypox virus isolate MPXV_USA_2022_OK0001, complete genome	USA:OK	Homo sapiens	Monkeypox virus	complete
+OQ511286.1 	Monkeypox virus isolate MPXV_USA_2022_OK0002, complete genome	USA:OK	Homo sapiens	Monkeypox virus	complete
+OQ511287.1 	Monkeypox virus isolate MPXV_USA_2022_OK0003, complete genome	USA:OK	Homo sapiens	Monkeypox virus	complete
+OQ557940.1 	Monkeypox virus isolate MPXV_USA_2022_TX0048, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557941.1 	Monkeypox virus isolate MPXV_USA_2022_CA0003, complete genome	USA: CA	Homo sapiens	Monkeypox virus	complete
+OQ557942.1 	Monkeypox virus isolate MPXV_USA_2022_CO0007, complete genome	USA: CO	Homo sapiens	Monkeypox virus	complete
+OQ557943.1 	Monkeypox virus isolate MPXV_USA_2022_ND0001, complete genome	USA: ND	Homo sapiens	Monkeypox virus	complete
+OQ557944.1 	Monkeypox virus isolate MPXV_USA_2022_ND0002, complete genome	USA: ND	Homo sapiens	Monkeypox virus	complete
+OQ557945.1 	Monkeypox virus isolate MPXV_USA_2022_NH0001, complete genome	USA: NH	Homo sapiens	Monkeypox virus	complete
+OQ557946.1 	Monkeypox virus isolate MPXV_USA_2022_NH0002, complete genome	USA: NH	Homo sapiens	Monkeypox virus	complete
+OQ557947.1 	Monkeypox virus isolate MPXV_USA_2022_NY0008, complete genome	USA: NY	Homo sapiens	Monkeypox virus	complete
+OQ557948.1 	Monkeypox virus isolate MPXV_USA_2022_NY0009, complete genome	USA: NY	Homo sapiens	Monkeypox virus	complete
+OQ557949.1 	Monkeypox virus isolate MPXV_USA_2022_NY0010, complete genome	USA: NY	Homo sapiens	Monkeypox virus	complete
+OQ557950.1 	Monkeypox virus isolate MPXV_USA_2022_TX0002, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557951.1 	Monkeypox virus isolate MPXV_USA_2022_TX0003, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557952.1 	Monkeypox virus isolate MPXV_USA_2022_TX0004, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557953.1 	Monkeypox virus isolate MPXV_USA_2022_TX0005, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557954.1 	Monkeypox virus isolate MPXV_USA_2022_TX0006, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557955.1 	Monkeypox virus isolate MPXV_USA_2022_TX0008, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557956.1 	Monkeypox virus isolate MPXV_USA_2022_TX0009, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ557957.1 	Monkeypox virus isolate MPXV_USA_2022_TX0047, complete genome	USA: TX	Homo sapiens	Monkeypox virus	complete
+OQ581853.1 	Monkeypox virus isolate MPXV/human/Taiwan/110-093831/2023, complete genome	Taiwan	Homo sapiens	Monkeypox virus	complete
+OQ581854.1 	Monkeypox virus isolate MPXV/human/Taiwan/109-005210/2023, complete genome	Taiwan	Homo sapiens	Monkeypox virus	complete
+OQ581855.1 	Monkeypox virus isolate MPXV/human/Taiwan/0310000009/2023, complete genome	Taiwan	Homo sapiens	Monkeypox virus	complete

@@ -9,7 +9,8 @@ if __name__ == '__main__':
     h = open("MPoxBR(incomplete).fasta", "w")
     c = open("complete.tsv", "w")
     o = open("incomplete.tsv", "w")
-    c.writelines("")
+    c.writelines("Accession\tVirus strain name\tLocation\tHost\tVirus type\tNuc. completeness\n")
+    o.writelines("Accession\tVirus strain name\tLocation\tHost\tVirus type\tNuc. completeness\n")
     with open('all_nucleotide.fasta') as f: # This file is downloaded from https://download.cncb.ac.cn/Genome/Viruses/Poxviridae/Monkeypox_virus/all_nucleotide.fasta
         for line in f:
             if(line[0] == '>'):
@@ -31,4 +32,4 @@ if __name__ == '__main__':
                 else:
                     print(line, file = h, end = '')
     print("This file has {} sequences, (complete {}, partial {}).".format(seq, complete, partial), file = sys.stderr)
-    # Will compress two fasta files using xz program
+    # Then, please compress two fasta files using xz program
